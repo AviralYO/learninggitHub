@@ -24,6 +24,8 @@ int main(){
     x=5;
     y=3;
     cout<< x %y; //1st change
+
+    cout << x
     //2nd line
     //I am in feature1 branch
     //Started working on feature2
